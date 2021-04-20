@@ -7,8 +7,7 @@ A Software Engineer specializing in Devops and Automation Testing. Professional 
 ---
 
 🧰 Toolbox
-
-<img src="https://worldvectorlogo.com/download/docker.svg" alt="JavaScript Logo" width="50" height="50"/> 
+ 
 ---
 
 <!--
