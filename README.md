@@ -8,7 +8,7 @@ A Software Engineer specializing in Devops and Automation Testing. Professional 
 
 🧰 Toolbox
  
- <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="CSS Logo" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="CSS Logo" width="50" height="50"/>&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg" alt="CSS Logo" width="200" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="CSS Logo" width="70" height="35"/> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="CSS Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="CSS Logo" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="CSS Logo" width="50" height="50"/>&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg" alt="CSS Logo" width="200" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="CSS Logo" width="70" height="35"/> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="CSS Logo" width="30" height="50"/>
  
 ---
 
