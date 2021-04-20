@@ -1,9 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Abhinay Bandaru!
 
+---
 
 A Software Engineer specializing in Devops and Automation Testing. Professional experience with the technologies listed in the toolbox below.
-
----
 
 <!--
 **bandaruab/bandaruab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
