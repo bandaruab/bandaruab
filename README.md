@@ -10,7 +10,7 @@ A Software Engineer specializing in Devops and Automation Testing. Professional 
  
  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="CSS Logo" width="50" height="50"/>
  
----https://worldvectorlogo.com/logo/docker
+---
 
 <!--
 **bandaruab/bandaruab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
